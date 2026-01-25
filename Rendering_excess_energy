@@ -1,0 +1,80 @@
+Summary: Reaching ~$100/month with 1–2 RTX 4070 on surplus solar
+Objective
+Generate approximately USD 100/month using 1–2 RTX 4070 GPUs, operated on surplus solar electricity, with remote operation from Europe/USA. The primary infrastructure (solar + batteries) is dimensioned for normal household use, not for mining.
+1. Power & Infrastructure Assumptions
+The solar system is sized for household resilience (lighting, internet, refrigeration, basic computing).
+GPUs are secondary loads, running only when surplus power is available.
+Primary guaranteed load: Starlink (~70 W).
+GPUs are throttled or paused during:
+low solar input
+battery protection states
+This avoids overbuilding the solar system purely for compute.
+Key point:
+The compute layer does not drive infrastructure cost — it monetises excess capacity.
+2. Hardware: RTX 4070
+Current cost (2026):
+~USD 500–600 per GPU (new, varies by region)
+Power draw:
+~180–220 W under compute
+can be underclocked to ~150 W for efficiency
+Capabilities:
+AI inference
+light training
+rendering
+batch compute
+edge workloads
+3. Revenue Model (Realistic, Not Hype)
+Traditional crypto mining alone is not sufficient or attractive long-term.
+Revenue is assumed to be mixed workloads, e.g.:
+AI inference / batch jobs
+rendering
+compute leasing
+opportunistic mining during idle periods
+Target:
+~USD 50–70/month per RTX 4070
+1–2 GPUs → ~USD 100/month combined, depending on utilisation.
+This assumes:
+non-24/7 operation
+no grid electricity cost
+low operating overhead
+4. Depreciation & Asset Value
+RTX 4070 depreciation is slow relative to income potential:
+Time
+Estimated resale value
+New
+100%
+2 years
+~65–70%
+4 years
+~40–50%
+6 years
+~25–35%
+8+ years
+residual / secondary use
+GPUs remain useful long after peak performance.
+After initial role, they can be repurposed as:
+secondary compute nodes
+render slaves
+edge AI
+educational / local workloads
+Important:
+The GPU is treated as a capital asset, not a consumable.
+5. Strategic Rationale
+Electricity is the dominant cost in compute.
+Here it is near-zero marginal cost.
+Solar infrastructure is justified independently of compute.
+Compute monetisation is optional upside, not risk exposure.
+Remote operation allows:
+European / US clients
+Global workloads
+No local labour dependency
+Conclusion
+1–2 RTX 4070 GPUs are sufficient to target ~USD 100/month under realistic assumptions.
+The system is:
+capital-efficient
+resilient
+modular
+scalable only if proven
+Downside risk is limited to hardware depreciation, not recurring costs.
+In short:
+This is not “mining for profit”, but monetising surplus energy with flexible compute assets
