@@ -1,7 +1,16 @@
-# Blackrocks-solar
-Solar and grid-backed power infrastructure securing Starlink connectivity at Blackrocks.
+# Blackrocks — Solar (Ghana)
 
+Syfte: stabil el, stabilt internet och en hållbar driftmodell för Blackrocks.
+Fokus: sol/lagring + driftprocess + dokumentation.
 
-Blackrocks-solar is an experimental solar infrastructure project focused on resilience, simplicity, and human-scale technology.
+## Status (kort)
+- Pågående: inventera verktyg/material på plats, strukturera repo, dokumentera senaste resa.
+- Nästa: driftlista för perioden när vi inte är där, försäkring, bokföringsintegration.
 
-The first phase establishes reliable backup power for internet connectivity, using locally available components and gradual expansion.
+## Snabbnavigering
+- TODO: ./TODO.md
+- Loggbok: ./LOGBOOK.md
+- Drift när vi inte är där: ./OPERATIONS.md
+- Inventarier: ./ASSETS.md
+- Försäkring: ./INSURANCE.md
+- Bokföring: ./ACCOUNTING.md
